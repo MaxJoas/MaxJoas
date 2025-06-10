@@ -7,21 +7,18 @@ I like to use AI to solve challenging problems.
 ## Most Recent Projects
 Quick overview of my pinned repos (check the repos for more details):
 
-**Deep Learning for omics data: Autoencodix**
 
-[Framework](https://github.com/jan-forest/autoencodix) for multi-omics integration. Unified different autoencoder architectures from research papers into one framework.
+- **LLM Trustworthiness: NoPinocchio**  
+  [Tool](https://github.com/MaxJoas/no_pinocchio) to add confidence scores to the output of LLMs.
 
-**LLM Trustworthiness: NoPinochio**
+- **Deep Learning for omics data: Autoencodix**  
+  [Framework](https://github.com/jan-forest/autoencodix) for multi-omics integration. Unified different autoencoder architectures from research papers into one framework.
 
-[Tool](https://github.com/MaxJoas/no_pinocchio) to add confidence scores to the output of LLMs.
+- **Computer Vision for Stem Cell Detection**  
+  [Software](https://github.com/MaxJoas/confluence_webapp) with a web app to detect cells in microscopy images to enhance stem cell production.
 
-**Computer Vision for Stem Cell Detection**
-
-[Software](https://github.com/MaxJoas/confluence_webapp) with a web app to detect cells in microscopy images to enhance stem cell production.
-
- **LLM Security: DeepSeek "Hack"**
- 
-Bypass censorship of DeepSeek model with [prompt engineering](https://github.com/MaxJoas/llm_security).
+- **LLM Security: DeepSeek "Hack"**  
+  Bypass censorship of DeepSeek model with [prompt engineering](https://github.com/MaxJoas/llm_security).
 
 ### Favourite Resources
 
