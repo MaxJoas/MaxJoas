@@ -20,7 +20,7 @@ Quick overview of my pinned repos (check the repos for more details):
 - **LLM Security: DeepSeek "Hack"**  
   Bypass censorship of DeepSeek model with [prompt engineering](https://github.com/MaxJoas/llm_security).
 
-### Favourite Resources
+## Favourite Resources
 
 - For structuring ML projects: Yearning Machine Learning by Andrew Ng
 - For Active Learning: Human-in-the-Loop Machine Learning by Robert Monarch
